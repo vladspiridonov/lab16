@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34301.259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "склад товаров", "склад товаров\склад товаров.csproj", "{E51CC210-FA2F-4179-9E49-A085C244C111}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "check", "check\check.csproj", "{BCC30CA7-44CF-4340-AF41-C6D76561EFAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E51CC210-FA2F-4179-9E49-A085C244C111}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E51CC210-FA2F-4179-9E49-A085C244C111}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E51CC210-FA2F-4179-9E49-A085C244C111}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E51CC210-FA2F-4179-9E49-A085C244C111}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCC30CA7-44CF-4340-AF41-C6D76561EFAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCC30CA7-44CF-4340-AF41-C6D76561EFAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCC30CA7-44CF-4340-AF41-C6D76561EFAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCC30CA7-44CF-4340-AF41-C6D76561EFAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF56DB4A-4DDF-4C4D-B82D-B745AC1B39AC}
+	EndGlobalSection
+EndGlobal
